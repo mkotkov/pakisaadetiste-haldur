@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="pakisaadetiste-haldur.core/pakisaadetiste-haldur.core.csproj" />
+  <Project Path="pakisaadetiste-haldur.wpf/pakisaadetiste-haldur.wpf.csproj" />
+</Solution>
